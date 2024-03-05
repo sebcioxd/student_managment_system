@@ -1,0 +1,5 @@
+ID: 1,AGE: 16,GRADE: 4.1,NAME: sebastian
+ID: 2,AGE: 17,GRADE: 2.1,NAME: bartek
+ID: 3,AGE: 16,GRADE: 3.2,NAME: dominik
+ID: 4,AGE: 15,GRADE: 2.9,NAME: tomasz
+ID: 5,AGE: 14,GRADE: 2.1,NAME: wiktor
